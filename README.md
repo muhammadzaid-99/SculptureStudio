@@ -1,5 +1,6 @@
 # Web Engineering  
 **Assignment 3 | BESE-13-B**
+GitHub Repository: https://github.com/muhammadzaid-99/SculptureStudio
 
 ## Group Members  
 1. **Ahmed Bilal** - 417936  
@@ -21,5 +22,5 @@
    php artisan serve
 
 3. You can **access admin** at `/dashboard` route using credentials:
-email: `admin@example.com`
-password: `12345678`
+   email: `admin@example.com`
+   password: `12345678`
