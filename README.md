@@ -1,5 +1,5 @@
 # Web Engineering  
-**Assignment 3 | BESE-13-B**
+**Assignment 3 | BESE-13-B** <br>
 GitHub Repository: https://github.com/muhammadzaid-99/SculptureStudio
 
 ## Group Members  
@@ -21,6 +21,6 @@ GitHub Repository: https://github.com/muhammadzaid-99/SculptureStudio
    php artisan storage:link
    php artisan serve
 
-3. You can **access admin** at `/dashboard` route using credentials:
-   email: `admin@example.com`
+3. You can **access admin** at `/dashboard` route using credentials: <br>
+   email: `admin@example.com`<br>
    password: `12345678`
